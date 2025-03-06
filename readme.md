@@ -41,7 +41,7 @@ Welcome to Neural Query! This project aims to simplify data access and manipulat
     https://github.com/vikash-kumar-swiggy/Swiggy-hackathon.git
     ```
     ```bash
-    cd 
+    cd Swiggy-hackathon
     ```
 
 2. **Install the required libraries:**
