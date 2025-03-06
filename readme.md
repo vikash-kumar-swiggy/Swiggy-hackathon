@@ -3,6 +3,9 @@
 
 Welcome to Neural Query! This project aims to simplify data access and manipulation in SQL databases through natural language commands, educational examples, and powerful AI integration.
 
+![image](https://github.com/user-attachments/assets/27029210-e37c-41a5-aaea-2e706c9ba611)
+
+
 ## Features
 
 ### 1. Natural Language SQL Query Generation
