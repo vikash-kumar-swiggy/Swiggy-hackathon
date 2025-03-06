@@ -1,7 +1,7 @@
 
-# : Simplifying SQL for Everyone with AI-Powered Natural Language Queries and Seamless Data Visualization.
+# : Simplifying Data for Everyone with AI-Powered Natural Language Queries and Seamless Data Visualization.
 
-Welcome to GenQuery! This project aims to simplify data access and manipulation in SQL databases through natural language commands, educational examples, and powerful AI integration.
+Welcome to Neural Query! This project aims to simplify data access and manipulation in SQL databases through natural language commands, educational examples, and powerful AI integration.
 
 ## Features
 
