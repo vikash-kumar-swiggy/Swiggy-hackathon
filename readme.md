@@ -65,6 +65,9 @@ Welcome to Neural Query! This project aims to simplify data access and manipulat
     streamlit run app.py
     ```
     - This will launch a web app in your default browser, usually at http://localhost:8501.
+  
+6. ![image](https://github.com/user-attachments/assets/64d57451-4be9-42cc-ba64-876d3d478c72)
+
 
 ## Testing Instructions
 
