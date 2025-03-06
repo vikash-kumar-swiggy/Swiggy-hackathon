@@ -38,6 +38,7 @@ Welcome to Neural Query! This project aims to simplify data access and manipulat
 
 1. **Clone the Repository:**
     ```bash
+    https://github.com/vikash-kumar-swiggy/Swiggy-hackathon.git
     ```
     ```bash
     cd 
